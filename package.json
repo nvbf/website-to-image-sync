@@ -1,0 +1,21 @@
+{
+  "name": "scoreboard-to-png",
+  "version": "1.0.0",
+  "description": "Create a png of the scoreboard",
+  "main": "updateScore.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scoreboard",
+    "page-to-image",
+    "pageres",
+    "volleyball",
+    "sports-admin-tools"
+  ],
+  "author": "Sindre Øye Svendby",
+  "license": "ISC",
+  "dependencies": {
+    "pageres": "^4.5.1"
+  }
+}
